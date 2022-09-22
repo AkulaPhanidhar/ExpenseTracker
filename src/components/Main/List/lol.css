@@ -1,0 +1,12 @@
+.lol {
+    color: rgba(245,67,119);
+    /* border: 2px solid red; */
+    /* padding-top: 50px; */
+    /* padding-bottom: 50px; */
+    /* font-size: 100px; */
+    font-weight: bold;
+}
+
+#lol {
+    border-radius: 30px;
+}
